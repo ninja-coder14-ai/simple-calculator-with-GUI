@@ -1,1 +1,0 @@
-# simple-calculator-with-GUI
